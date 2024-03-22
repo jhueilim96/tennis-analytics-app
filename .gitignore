@@ -1,0 +1,23 @@
+.venv
+.DS_store
+
+# Ignore Terraform directories and files
+terraform
+.terraform/
+*.tfstate*
+*.tfvars
+*.tfplan
+terraform.tfstate.backup
+.terraformrc
+.terraformrc.json
+.terraform.lock.hcl
+terraform.rc
+
+# Ignore Docker related files
+app/.dockerignore
+Dockerfile.*
+docker-compose.yml
+docker-compose.override.yml
+docker-compose.override.yaml
+
+*.duckdb
