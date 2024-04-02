@@ -2,6 +2,8 @@
 
 Welcome to the Tennis Analytics Dashboard project! This project aims to provide comprehensive insights into tennis analytics for the major championships of 2023.
 
+View dash board live [here](https://ta-app.ashymeadow-e82ce265.southeastasia.azurecontainerapps.io)
+
 For Data Engineering, please visit [tennis-analytics-dbt](https://github.com/jhueilim96/tennis-analytics-dbt).
 
 ### Contributors
